@@ -1,0 +1,17 @@
+courseId, cycleId, studentId, enrolDate, cancelled, cancellationReason
+cour001, cyc001, stud001, 2022.06.01, true, Not relevent
+cour001, cyc002, stud001, 2022.06.01, true, Not rlevent
+cour001, cyc003, stud001, 2022.06.01, true, Not rlevent
+cour001, cyc004, stud002, 2022.06.01, true, Not rlevent
+cour002, cyc004, stud002, 2022.06.01, true, Not rlevent
+cour002, cyc001, stud003, 2022.06.01, true, Not rlevent
+cour002, cyc001, stud004, 2022.06.01, true, Not rlevent
+cour001, cyc003, stud005, 2022.06.01, true, Not rlevent
+cour003, cyc001, stud002, 2022.06.01, true, Not rlevent
+cour003, cyc002, stud004, 2022.06.01, true, Not rlevent
+cour004, cyc001, stud004, 2022.06.01, true, Not rlevent
+cour005, cyc005, stud005, 2022.06.01, true, Not rlevent
+cour005, cyc004, stud001, 2022.06.01, true, Not rlevent
+cour005, cyc004, stud002, 2022.06.01, true, Not rlevent
+cour004, cyc005, stud002, 2022.06.01, true, Not rlevent
+cour004, cyc003, stud005, 2022.06.01, true, Not rlevent
